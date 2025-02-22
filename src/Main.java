@@ -10,6 +10,7 @@ public class Main {
         numbers.printNumbers();
         //System.out.println("*****************************");
         numbers.insert(40);
+        System.out.println("To Revert");
 
         //numbers.printNumbers();
         System.out.println("*****************************");
