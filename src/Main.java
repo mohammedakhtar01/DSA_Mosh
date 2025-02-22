@@ -12,7 +12,7 @@ public class Main {
         numbers.insert(40);
 
         //numbers.printNumbers();
-        //System.out.println("*****************************");
+        System.out.println("*****************************");
         numbers.insert(50);
         numbers.insert(60);
         numbers.insert(70);
