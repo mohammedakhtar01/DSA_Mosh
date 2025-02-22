@@ -11,6 +11,8 @@ public class Main {
         //System.out.println("*****************************");
         numbers.insert(40);
 
+        System.out.println("Revert- from git");
+
         //numbers.printNumbers();
         System.out.println("*****************************");
         numbers.insert(50);
