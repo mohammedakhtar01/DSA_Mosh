@@ -7,7 +7,7 @@ public class Main {
         numbers.insert(10);
         numbers.insert(20);
         numbers.insert(30);
-        numbers.printNumbers();
+        //numbers.printNumbers();
         //System.out.println("*****************************");
         numbers.insert(40);
 
