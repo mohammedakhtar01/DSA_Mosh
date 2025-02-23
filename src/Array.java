@@ -55,7 +55,7 @@ public class Array {
     private void resizeArray(int[] OldArr){
 
         int[] newArr = new int[count*2];
-
+        System.out.println("hello");
         for (int idx=0; idx<OldArr.length ; idx++){
             newArr[idx] = OldArr[idx];
         }
